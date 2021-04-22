@@ -1,6 +1,6 @@
-este es la historia de mi vida
+GIT
+este es el archivo que ayudará a comprender el manejo de git
 
-jorge es un chico  alegre que eestá tratando de aprender a programar.
-
-
-vive en Envigado papá
+"git show historia.txt " muestra el ultimo commit, el 
+mensaje del comimit, y muestra el cambio que realizó 
+respecto al anterior(sirve mucho cuando sucede un error)
