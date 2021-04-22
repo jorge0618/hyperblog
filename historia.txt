@@ -8,3 +8,7 @@ respecto al anterior(sirve mucho cuando sucede un error)
 los apuntes tomados facilitaran el uso de este programa.
 
 ahora vamos a ver que cambios se ven.
+
+
+
+agregamos una linea para seguir probando.
