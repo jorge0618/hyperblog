@@ -2,7 +2,7 @@ GIT
 este es el archivo que ayudará a comprender el manejo de git
 
 "git show historia.txt " muestra el ultimo commit, el 
-mensaje del comimit, y muestra el cambio que realizó 
+mensaje del commit, y muestra el cambio que realizó 
 respecto al anterior(sirve mucho cuando sucede un error)
 
 los apuntes tomados facilitaran el uso de este programa.
