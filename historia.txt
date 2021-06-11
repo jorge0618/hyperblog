@@ -1,5 +1,22 @@
+<<<<<<< HEAD
 Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
+=======
+GIT
+este es el archivo que ayudará a comprender el manejo de git
+
+"git show historia.txt " muestra el ultimo commit, el 
+mensaje del commit, y muestra el cambio que realizó 
+respecto al anterior(sirve mucho cuando sucede un error)
+
+los apuntes tomados facilitaran el uso de este programa.
+
+ahora vamos a ver que cambios se ven.
+
+
+
+agregamos una linea para seguir probando.
+>>>>>>> 2b5e6f2647c454982834fc20c36aeb75b42f130e
