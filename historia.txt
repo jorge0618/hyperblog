@@ -3,8 +3,11 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
 
+<<<<<<< HEAD
 Anita tiene 28 años y ahora está en platzi.
 
+=======
+>>>>>>> bb884b6d2f89e93be78d0c75daacd28cbb380388
 Mañana nos enfocaremos en su vida laboral
 =======
 GIT
